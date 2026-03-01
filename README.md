@@ -12,6 +12,7 @@
 
 #### ⚠️ ATTENTION
 The idea for Fast Flags came from https://github.com/Nightro-Fx
+Fast Flags isn't ready yet, I'm still in development.
 
 # Getting Started
 First we need to locate your _config.json_
