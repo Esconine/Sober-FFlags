@@ -7,8 +7,18 @@
 <body>
     <h1 align="center">
         <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Sober.png" width="40" alt="Logo"/> 
-        Performance Sober Fast Flags
+        The Best Sober Fast Flags
     </h1>
+
+  <p align="center">
+  <a href="https://discord.gg/jkwEjgxZps">
+    <img src="https://github.com/Nightro-Fx/Performance-FastFlags/blob/main/img/Discord_Join.png" alt="Join Now" width="150">
+  </a>
+</p>
+
+
+
+
 
 #### ⚠️ ATTENTION
 The idea for Fast Flags came from https://github.com/Nightro-Fx
