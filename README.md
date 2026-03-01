@@ -16,4 +16,4 @@ First we need to locate your _config.json_
 - Your config.json is located at `~/.var/app/org.vinegarhq.Sober/config/sober`
 - We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
 - OR We can run `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
-- Now just delete everything inside and paste everything from [config.json]() in here to your _config.json_.
+- Now just delete everything inside and paste everything from [config.json](https://github.com/Esconine/Sober-FFlags/blob/main/config.json) in here to your _config.json_.
