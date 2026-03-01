@@ -10,6 +10,9 @@
         Performance Sober Fast Flags
     </h1>
 
+#### ⚠️ ATTENTION
+The idea for Fast Flags came from https://github.com/Nightro-Fx
+
 # Getting Started
 First we need to locate your _config.json_
 - Make sure _Show Hidden File_ is toggled on (CTRL + H)
@@ -17,3 +20,6 @@ First we need to locate your _config.json_
 - We run: `xdg-open ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
 - OR We can run `nano ~/.var/app/org.vinegarhq.Sober/config/sober/config.json`
 - Now just delete everything inside and paste everything from [config.json](https://github.com/Esconine/Sober-FFlags/blob/main/config.json) in here to your _config.json_.
+
+
+###### Checking out [Lucem](https://github.com/xTrayambak/lucem), which is blostraps but for Sober. These commands above are also for Ubuntu, So if you have any knowledge about your Distro use these commands as a reference.
